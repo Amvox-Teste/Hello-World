@@ -8,7 +8,9 @@ namespace Hello_World
         {
             Console.WriteLine("Hello World!");
 
-            Console.WriteLine("Olá, Mundo!");
+            
+            
+            Console.WriteLin("Olá, Hallo Welt!");
         }
     }
 }
