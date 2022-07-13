@@ -9,6 +9,8 @@ namespace Hello_World
             Console.WriteLine("Γειά σου Κόσμε!"); //Grego
             
             Console.WriteLine("Kia ora te Ao!"); //Maori
+
+            Console.WriteLine("Ciao mondo"); //italiano
         }
     }
 }
