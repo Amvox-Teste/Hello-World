@@ -6,9 +6,9 @@ namespace Hello_World
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Olá, Mundo!");
+            Console.WriteLine("Γειά σου Κόσμε!"); //Grego
             
-            Console.WriteLine("Olá, Hallo Welt!");
+            Console.WriteLine("Kia ora te Ao!"); //Maori
         }
     }
 }
