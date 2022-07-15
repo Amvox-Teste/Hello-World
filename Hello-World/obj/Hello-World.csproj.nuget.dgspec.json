@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\daylanesilva\\source\\repos\\Hello-World\\Hello-World\\Hello-World.csproj": {}
+    "C:\\Users\\reistar\\Desktop\\Hello-World\\Hello-World\\Hello-World.csproj": {}
   },
   "projects": {
-    "C:\\Users\\daylanesilva\\source\\repos\\Hello-World\\Hello-World\\Hello-World.csproj": {
+    "C:\\Users\\reistar\\Desktop\\Hello-World\\Hello-World\\Hello-World.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\daylanesilva\\source\\repos\\Hello-World\\Hello-World\\Hello-World.csproj",
+        "projectUniqueName": "C:\\Users\\reistar\\Desktop\\Hello-World\\Hello-World\\Hello-World.csproj",
         "projectName": "Hello-World",
-        "projectPath": "C:\\Users\\daylanesilva\\source\\repos\\Hello-World\\Hello-World\\Hello-World.csproj",
-        "packagesPath": "C:\\Users\\daylanesilva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\daylanesilva\\source\\repos\\Hello-World\\Hello-World\\obj\\",
+        "projectPath": "C:\\Users\\reistar\\Desktop\\Hello-World\\Hello-World\\Hello-World.csproj",
+        "packagesPath": "C:\\Users\\reistar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\reistar\\Desktop\\Hello-World\\Hello-World\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\daylanesilva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\reistar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
         }
       }
     }
